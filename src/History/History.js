@@ -6,6 +6,7 @@ import React, { useState } from "react";
 import React, { useContext } from "react";
 import { useSelector } from 'react-redux';
 import React, { useContext } from "react";
+import './history.css';
 
 /* export default function History() {
 
